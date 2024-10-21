@@ -21,42 +21,44 @@ const productStore = useProductStore()
   </div>
 </div>
 <!-- product -->
-<div class="carousel rounded-box  max-w-90">
-  <div class="carousel-item w-1/2">
+<div class="px-8">
+<div class="carousel rounded-box  ">
+  <div class="carousel-item size-1/3">
     <img
       src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_79-2x.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
-      src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_33-2x.png"
+      src="https://i.pinimg.com/originals/b9/eb/42/b9eb42b06ef014d539d1e9f3b2871608.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
       src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_164-2x.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
-      src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_211-2x.png"
+      src="https://i.pinimg.com/originals/b9/eb/42/b9eb42b06ef014d539d1e9f3b2871608.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
       src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_200-2x.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
-      src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_224-2x.png"
+      src="https://i.pinimg.com/originals/b9/eb/42/b9eb42b06ef014d539d1e9f3b2871608.png"
       class="w-full" />
   </div>
-  <div class="carousel-item w-1/2">
+  <div class="carousel-item size-1/3">
     <img
       src="https://dz3we2x72f7ol.cloudfront.net/expansions/obsidian-flames/en-us/SV03_EN_206-2x.png"
       class="w-full" />
   </div>
+</div>
 </div>
     </UserLayout>
 </template>
